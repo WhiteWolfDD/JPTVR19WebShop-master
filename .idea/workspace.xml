@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JPTVR19WebShop_jakarta:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f535090-d816-48ea-b09d-4a9c2ab90091" name="Default Changelist" comment="" />
+    <list id="5e9d4b3c-db2e-49b1-af1c-8adebb804141" name="Changes by pupil" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1oVyUEcqh4ksR9Xo9VAnXmBrOsk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/bcpkix-jdk14-149.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.1577424" />
+    <property name="project.structure.side.proportion" value="0.34712642" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\Java\JPTVR19WebShop_jakarta\src\main\webapp\WEB-INF\buyer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Java\JPTVR19WebShop_jakarta\src\test" />
+      <recent name="D:\Coding\Java\JPTVR19WebShop_jakarta\src\main\java" />
+      <recent name="D:\Coding\Java\JPTVR19WebShop_jakarta\src\main\webapp" />
+      <recent name="D:\Coding\Java\JPTVR19WebShop_jakarta\src\main\webapp\WEB-INF\guest" />
+      <recent name="D:\Coding\Java\JPTVR19WebShop_jakarta\src\main\webapp\WEB-INF\buyer" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tests.webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="session" />
+    </key>
+  </component>
+  <component name="RunManager" selected="GlassFish Server.GlassFish 6.0.0.RC2">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlassFish 6.0.0.RC2" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 6.0.0.RC2" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JPTVR19WebShop_jakarta-1.0-SNAPSHOT/JPTVR19WebShop_jakarta-1.0-SNAPSHOT" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="JPTVR19WebShop_jakarta:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JPTVR19WebShop_jakarta:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="AdminLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JPTVR19WebShop_jakarta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="web.general" />
+      <option name="MAIN_CLASS_NAME" value="web.general.AdminLoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminLoginTest.lostOfControlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JPTVR19WebShop_jakarta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="web.general" />
+      <option name="MAIN_CLASS_NAME" value="web.general.AdminLoginTest" />
+      <option name="METHOD_NAME" value="lostOfControlTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in demo (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in demo (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="GlassFish Server.GlassFish 6.0.0.RC2" />
+      <item itemvalue="JUnit.AdminLoginTest" />
+      <item itemvalue="JUnit.AdminLoginTest.lostOfControlTest" />
+      <item itemvalue="JUnit.All in demo" />
+      <item itemvalue="JUnit.All in demo (1)" />
+      <item itemvalue="JUnit.All in demo (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdminLoginTest" />
+        <item itemvalue="JUnit.All in demo (2)" />
+        <item itemvalue="JUnit.All in demo (1)" />
+        <item itemvalue="JUnit.All in demo" />
+        <item itemvalue="JUnit.AdminLoginTest.lostOfControlTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f535090-d816-48ea-b09d-4a9c2ab90091" name="Default Changelist" comment="" />
+      <created>1613386065760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613386065760</updated>
+      <workItem from="1613386068521" duration="8190000" />
+      <workItem from="1613485785585" duration="1994000" />
+      <workItem from="1613656227774" duration="4173000" />
+      <workItem from="1613671324287" duration="1146000" />
+      <workItem from="1613751681563" duration="4252000" />
+      <workItem from="1613762287996" duration="2850000" />
+      <workItem from="1613811489293" duration="899000" />
+      <workItem from="1613931444391" duration="3965000" />
+      <workItem from="1614013408105" duration="5176000" />
+      <workItem from="1614083613300" duration="4859000" />
+      <workItem from="1614096920781" duration="4076000" />
+      <workItem from="1614101081344" duration="1992000" />
+      <workItem from="1614104132729" duration="326000" />
+      <workItem from="1614153952971" duration="3968000" />
+      <workItem from="1614164423152" duration="9477000" />
+      <workItem from="1614191302161" duration="2724000" />
+      <workItem from="1614248381611" duration="5390000" />
+      <workItem from="1614256775194" duration="2255000" />
+      <workItem from="1614265447591" duration="6240000" />
+      <workItem from="1614278411830" duration="2379000" />
+      <workItem from="1614339167885" duration="4155000" />
+      <workItem from="1614352435942" duration="5315000" />
+      <workItem from="1614362765313" duration="8716000" />
+      <workItem from="1614418817103" duration="4310000" />
+      <workItem from="1614432045559" duration="6452000" />
+      <workItem from="1614441417095" duration="5019000" />
+      <workItem from="1614450856707" duration="4926000" />
+      <workItem from="1614501487050" duration="8337000" />
+      <workItem from="1614514396567" duration="10312000" />
+      <workItem from="1614595313399" duration="787000" />
+      <workItem from="1614598893699" duration="10270000" />
+      <workItem from="1614615626714" duration="6590000" />
+      <workItem from="1614623623020" duration="660000" />
+      <workItem from="1614690338974" duration="870000" />
+      <workItem from="1614692433224" duration="5842000" />
+      <workItem from="1614698445036" duration="5026000" />
+      <workItem from="1614710760650" duration="1879000" />
+      <workItem from="1614771804499" duration="2074000" />
+      <workItem from="1614773922999" duration="6095000" />
+      <workItem from="1614785281095" duration="3254000" />
+      <workItem from="1614789723655" duration="5897000" />
+      <workItem from="1614846048918" duration="2660000" />
+      <workItem from="1614857959064" duration="4874000" />
+      <workItem from="1614876183452" duration="924000" />
+      <workItem from="1614879961626" duration="5833000" />
+      <workItem from="1614937473253" duration="1054000" />
+      <workItem from="1614938925018" duration="100000" />
+      <workItem from="1614956276800" duration="5369000" />
+      <workItem from="1614966267638" duration="1338000" />
+      <workItem from="1614973572318" duration="3559000" />
+      <workItem from="1615016550935" duration="5279000" />
+      <workItem from="1615022031883" duration="5503000" />
+      <workItem from="1615032370858" duration="5748000" />
+      <workItem from="1615041955149" duration="4795000" />
+      <workItem from="1615054046470" duration="4260000" />
+      <workItem from="1615105868674" duration="3022000" />
+      <workItem from="1615117460739" duration="6705000" />
+      <workItem from="1615129558783" duration="938000" />
+      <workItem from="1615140823956" duration="4321000" />
+      <workItem from="1615212316876" duration="9089000" />
+      <workItem from="1615225994938" duration="603000" />
+      <workItem from="1615227909284" duration="560000" />
+      <workItem from="1615228485850" duration="2770000" />
+      <workItem from="1615282511257" duration="1000" />
+      <workItem from="1615303953710" duration="1950000" />
+      <workItem from="1615307005093" duration="7236000" />
+      <workItem from="1615367101135" duration="4253000" />
+      <workItem from="1615379693719" duration="4822000" />
+      <workItem from="1615464998244" duration="82000" />
+      <workItem from="1615465094691" duration="9011000" />
+      <workItem from="1615481887100" duration="2781000" />
+      <workItem from="1615537141564" duration="2594000" />
+      <workItem from="1615542028127" duration="1241000" />
+      <workItem from="1615545053646" duration="2466000" />
+      <workItem from="1615551668981" duration="2779000" />
+      <workItem from="1615557691463" duration="3477000" />
+      <workItem from="1615565837933" duration="1717000" />
+      <workItem from="1615577403612" duration="2953000" />
+      <workItem from="1615627240632" duration="1334000" />
+      <workItem from="1615641762944" duration="5234000" />
+      <workItem from="1615707349139" duration="4431000" />
+      <workItem from="1615718457795" duration="1435000" />
+      <workItem from="1615745974036" duration="2254000" />
+      <workItem from="1615791451580" duration="7016000" />
+      <workItem from="1615824583697" duration="2523000" />
+      <workItem from="1616000489428" duration="113000" />
+      <workItem from="1616000665366" duration="1952000" />
+      <workItem from="1616048544218" duration="1895000" />
+      <workItem from="1616075456329" duration="305000" />
+      <workItem from="1616090021660" duration="415000" />
+      <workItem from="1616228220881" duration="59000" />
+      <workItem from="1616228334007" duration="704000" />
+      <workItem from="1616268864328" duration="281000" />
+      <workItem from="1616269188715" duration="100000" />
+      <workItem from="1616318403447" duration="17000" />
+      <workItem from="1616341265102" duration="99000" />
+      <workItem from="1616497117673" duration="2498000" />
+      <workItem from="1616508077238" duration="655000" />
+      <workItem from="1616598306790" duration="1960000" />
+      <workItem from="1616613599830" duration="1210000" />
+      <workItem from="1617021502890" duration="86000" />
+      <workItem from="1617036400225" duration="87000" />
+      <workItem from="1617038062685" duration="909000" />
+      <workItem from="1617040263538" duration="2092000" />
+      <workItem from="1617184898721" duration="624000" />
+      <workItem from="1617206436176" duration="3489000" />
+      <workItem from="1617213127953" duration="60000" />
+      <workItem from="1617262590796" duration="1700000" />
+      <workItem from="1617294811560" duration="3988000" />
+      <workItem from="1617345032880" duration="3201000" />
+      <workItem from="1617361432285" duration="1175000" />
+      <workItem from="1617380637721" duration="2230000" />
+      <workItem from="1617462543046" duration="4849000" />
+      <workItem from="1617472410083" duration="6703000" />
+      <workItem from="1617525354928" duration="2335000" />
+      <workItem from="1617528198364" duration="1331000" />
+      <workItem from="1617537016436" duration="5595000" />
+      <workItem from="1617552759021" duration="4133000" />
+      <workItem from="1617557007978" duration="2047000" />
+      <workItem from="1617559195227" duration="72000" />
+      <workItem from="1617615062424" duration="1717000" />
+      <workItem from="1617617418615" duration="11000" />
+      <workItem from="1617617826778" duration="9000" />
+      <workItem from="1617621712192" duration="314000" />
+      <workItem from="1617635775240" duration="1187000" />
+      <workItem from="1617646950285" duration="1198000" />
+      <workItem from="1617793990607" duration="7792000" />
+      <workItem from="1617804152306" duration="420000" />
+      <workItem from="1617809359471" duration="358000" />
+      <workItem from="1617861136076" duration="6575000" />
+      <workItem from="1617991658144" duration="8019000" />
+      <workItem from="1618039189743" duration="5349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JPTVR19WebShop_jakarta$GlassFish_6_0_0_RC2.ic" NAME="GlassFish 6.0.0.RC2 Coverage Results" MODIFIED="1615796036494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
